@@ -43,5 +43,15 @@
 4.9: Convert a Numger to a String!: 3
 4.10: Convert a Numger to a Signed String!: 3
 
-5.1:
+5.1: ASCII String Value: 2
+5.2: After Midnight (1): 5
+5.3: After Midnight (2): 5
+5.4: Letter Swap: 2
+5.5: Clean up the words: 2 (with regex)
+5.6: Letter Counter (1): 2
+5.7: Letter Counter (2): 2
+5.8: Alphabetical Numbers: 2
+5.9: ddaaiillyy ddoouubbllee:
+5.10: Bannerizer:
+5.11: Spin Me Around In Circles:
 
