@@ -61,14 +61,14 @@
 6.4: Reversed Arrays (Part 1): 2
 6.5: Reversed Arrays (Part 2): 2
 6.6: Combining Arrays: 2 
-6.7: Halvsies:
-6.8: Find the Duplicate:
-6.9: Does My List Include This?:
-6.10: Right Triangles:
+6.7: Halvsies: 3
+6.8: Find the Duplicate: 3
+6.9: Does My List Include This?: 2 
+6.10: Right Triangles: 3
 
-7.1: Combine Two Lists:
-7.2: Lettercase Counter:
-7.3: Capitalize Words:
+7.1: Combine Two Lists: 2
+7.2: Lettercase Counter: 2
+7.3: Capitalize Words: 5
 7.4: Swap Case:
 7.5: Staggered Caps (Part 1):
 7.6: Staggered Caps (Part 2):
