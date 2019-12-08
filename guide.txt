@@ -68,14 +68,14 @@
 
 7.1: Combine Two Lists: 2
 7.2: Lettercase Counter: 2
-7.3: Capitalize Words: 5
-7.4: Swap Case:
-7.5: Staggered Caps (Part 1):
-7.6: Staggered Caps (Part 2):
-7.7: Multiplicative Average:
-7.8: Multiply Lists:
-7.9: Multiply All Pairs:
-7.10: The End Is Near But Not Here:
+7.3: Capitalize Words: 5 (1st try) 3 (2nd try)
+7.4: Swap Case: 2
+7.5: Staggered Caps (Part 1): 3
+7.6: Staggered Caps (Part 2): 3
+7.7: Multiplicative Average: 4 (outputting float part)
+7.8: Multiply Lists: 2 
+7.9: Multiply All Pairs: 2
+7.10: The End Is Near But Not Here: 2 Further: 3 
 
 8.1: Sum of Sums:
 8.2: Madlibs:
@@ -128,10 +128,10 @@ Medium:
 Advanced:
 1.1: Madlibs Revisited:
 1.2: Seeing Stars:
-1.3: Transpose 3x3:
-1.4: Transpose MxN:
-1.5: Rotating Matrices:
-1.6: Fix the Bug:
+1.3: Transpose 3x3: 5 Further: 7 (looked at solution)
+1.4: Transpose MxN: 5 
+1.5: Rotating Matrices: 6
+1.6: Fix the Bug: 3
 1.7: Merge Sorted Lists: 4
 1.8: Merge Sort: 5
 1.8.2: Merge Sort Iterative: 7
